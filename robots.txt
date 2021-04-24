@@ -1,0 +1,11 @@
+User-agent: Mediapartners-Google
+
+Allow:
+
+User-agent: *
+
+Allow: /search
+
+Allow: /
+
+Sitemap: http://shila-sawangan.web.id/feeds/posts/default?orderby=UPDATED
