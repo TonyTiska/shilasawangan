@@ -3013,6 +3013,22 @@ a {
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
+.cid-sGlsDEzad4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-sGlsDEzad4 .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sGlsDEzad4 .row {
+  flex-direction: row-reverse;
+}
+.cid-sGlsDEzad4 img {
+  width: 100%;
+}
 .cid-sv3iftG4kn {
   padding-top: 0rem;
   padding-bottom: 0rem;
