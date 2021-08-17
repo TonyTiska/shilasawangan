@@ -2801,14 +2801,21 @@ a {
     left: -1rem;
   }
 }
-.cid-sv38V84JdR {
-  background-image: url("../../../assets/images/background-shila-1.jpg");
+.cid-sGkSbei6du {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-image: linear-gradient(149deg, #1f3b03 10%, #81ef14 100%) !important;
 }
-.cid-sv38V84JdR .mbr-section-title {
+.cid-sGkSbei6du .mbr-section-title DIV {
+  text-align: left;
+}
+.cid-sGkSbei6du .mbr-section-title {
+  text-align: left;
+}
+.cid-sGkSbei6du .mbr-text,
+.cid-sGkSbei6du .mbr-section-btn {
+  text-align: left;
   color: #000000;
-}
-.cid-sv38V84JdR .mbr-section-subtitle {
-  color: #81ef14;
 }
 .cid-sFdTGETBrg {
   padding-top: 0rem;
